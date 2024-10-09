@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickfranco-softwareengineer/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpatrickfranco&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpatrickfranco&layout=compact&theme=dracula)
+
 
 ### Tecnologiais que uso no meu dia a dia 
 
@@ -13,3 +15,13 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+
+### Um pouco mais sobre mim...
+```
+ const Patrick = {
+    code: [ Javascript, Typescript, HTML, CSS, Python, Node, SQL],
+    tools: [Flask, Fastify, React, React Native Styled-Components, Tailwind, Bootstrap ],
+    interests: ["ai", "Architecture", "Microservice"]
+} 
+ ```
